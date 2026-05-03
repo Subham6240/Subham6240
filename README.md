@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m @Subham6240
 - 👀 I’m interested in Coding, Problem solving, Chess
-- 🌱 I’m currently doing Bachelors in Computer Science and Engineering from St. Thomas' College of College of Engineering and Technology, West Bengal, India
+- 🌱 I completed Bachelors in Computer Science and Engineering from St. Thomas' College of College of Engineering and Technology, West Bengal, India
+- Currently working in Cognizant
 - 📫 How to reach me subhamtripathi6240@gmail.com
 - ⚡ Fun fact: I am a marvel fan
 
